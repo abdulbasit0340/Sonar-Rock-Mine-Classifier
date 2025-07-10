@@ -35,7 +35,7 @@ The dataset used in this project consists of SONAR signals collected from variou
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/abdulbasit0340/Sonar-Rock-Mine-Classifier.git](https://github.com/abdulbasit0340/Sonar-Rock-Mine-Classifier.git)
-    cd YourRepoName
+    
     ```
 2.  **Create a virtual environment (recommended):**
     ```bash
@@ -68,5 +68,5 @@ The dataset used in this project consists of SONAR signals collected from variou
 
 ## Author
 
-* **[Abdul Basit Khan]** - [Link to your LinkedIn/Portfolio (Optional)]
+* **[Abdul Basit Khan]** 
 
